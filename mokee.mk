@@ -15,8 +15,8 @@
 # limitations under the License.
 #
 
-# Inherit common Lineage stuff
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit common MK stuff
+$(call inherit-product, vendor/mk/config/common_full_phone.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/sony/hayabusa/device.mk)
@@ -27,7 +27,7 @@ TARGET_SCREEN_WIDTH := 720
 
 # Device identifications
 PRODUCT_DEVICE := hayabusa
-PRODUCT_NAME := lineage_hayabusa
+PRODUCT_NAME := mk_hayabusa
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := Xperia TX
