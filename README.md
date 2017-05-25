@@ -24,4 +24,4 @@ Camera  | 13MPx, LED Flash
 
 ![Sony Xperia TX](http://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-tx.jpg "Sony Xperia TX in black")
 
-This branch is for building LineageOS 14.1 (or Android Nougat 7.1 AOSP based roms) ROMS.
+This branch is for building LineageOS 14.1 (or Android Nougat 7.1 AOSP based) ROMS.
